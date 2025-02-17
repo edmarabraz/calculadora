@@ -1,4 +1,4 @@
-<h1>Resultado Operação:</h1>
+<h1>Resultado Operação teste git:</h1>
 
 {{-- Comentário no blade que será desconsiderado pelo intrepretador --}}
 {{--<h3> Soma: {{$x}} + {{$y}} = {{$soma}}</h3>--}}
